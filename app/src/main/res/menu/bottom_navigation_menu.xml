@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btnMenuHome"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/btnMenuFiltro"
+        android:icon="@drawable/ic_baseline_filter_alt_24"
+        android:title="Filtro"/>
+    <item
+        android:id="@+id/btnMenuChat"
+        android:icon="@drawable/ic_baseline_chat_bubble_24"
+        android:title="Chat" />
+    <item
+        android:id="@+id/btnMenuProfile"
+        android:icon="@drawable/ic_person"
+        android:title="Profile" />
+</menu>
